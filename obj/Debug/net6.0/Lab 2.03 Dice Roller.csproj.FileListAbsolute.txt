@@ -1,0 +1,15 @@
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\bin\Debug\net6.0\Lab 2.03 Dice Roller.exe
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\bin\Debug\net6.0\Lab 2.03 Dice Roller.deps.json
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\bin\Debug\net6.0\Lab 2.03 Dice Roller.runtimeconfig.json
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\bin\Debug\net6.0\Lab 2.03 Dice Roller.dll
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\bin\Debug\net6.0\Lab 2.03 Dice Roller.pdb
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\Lab 2.03 Dice Roller.csproj.AssemblyReference.cache
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\Lab 2.03 Dice Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\Lab 2.03 Dice Roller.AssemblyInfoInputs.cache
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\Lab 2.03 Dice Roller.AssemblyInfo.cs
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\Lab 2.03 Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\Lab 2.03 Dice Roller.dll
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\refint\Lab 2.03 Dice Roller.dll
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\Lab 2.03 Dice Roller.pdb
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\Lab 2.03 Dice Roller.genruntimeconfig.cache
+C:\Users\Grant\source\repos\Labs\Lab_2.03 Dice Roller\Lab 2.03 Dice Roller\obj\Debug\net6.0\ref\Lab 2.03 Dice Roller.dll
